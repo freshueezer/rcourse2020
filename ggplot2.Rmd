@@ -1,0 +1,42 @@
+---
+title: "ggplot2"
+author: '22'
+date: "2020/7/10"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+### 中文测试
+
+抓紧赶工！
+
+**抓紧**
+
+*赶工*
+
+_!_
+
+__爬__
+
+>引用框
+>
+>这里
+
+```{r cars}
+summary(cars)
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
